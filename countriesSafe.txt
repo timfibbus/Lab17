@@ -1,0 +1,21 @@
+Albania~~~11392945~~~Tirana
+Burundi~~~12493932~~~Bujumbura
+Czech Republic~~~29948421~~~Prague
+Denmark~~~29553943~~~Copenhagen
+Ethiopia~~~8894321~~~Addis Ababa
+France~~~44393231~~~Paris
+Gabon~~~6448233~~~Libreville
+Haiti~~~9553944~~~Port-au-Prince
+Italy~~~52442342~~~Rome
+Jamaica~~~16152162~~~Kingston
+Korea, North~~~6969696~~~Pyongyang
+Malawi~~~9423342~~~Lilongwe
+Norway~~~24333412~~~Oslo
+Oman~~~9054432~~~Muscat
+Pakistan~~~34222312~~~Islamabad
+Serbia~~~24342534~~~Belgrade
+Thailand~~~95353242~~~Bangkok
+Uzbekistan~~~49942343~~~Tashkent
+Vietnam~~~44923442~~~Hanoi
+Yemen~~~10094342~~~Sanaa
+Zimbabwe~~~12494923~~~Harare
